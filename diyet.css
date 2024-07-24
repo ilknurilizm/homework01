@@ -116,6 +116,7 @@ section{
 .home{
    height: 100vh;
    display: flex;
+   width:100%;
    align-items: center;
    justify-content: center;
    background:url("diyet foto/home.jpg") no-repeat;
