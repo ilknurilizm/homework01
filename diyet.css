@@ -121,6 +121,9 @@ section{
    background:url("diyet foto/home.jpg") no-repeat;
    background-size: cover;
    background-attachment: fixed;
+background-position: center;
+	
+
 }
 
 .home .content{
@@ -611,9 +614,7 @@ section{
    #menu{
       display: inline-block;
    }
-	.home{
-		background-size: cover;
-	}
+	
 
    .header .navbar{
       position: absolute;
