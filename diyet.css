@@ -611,6 +611,9 @@ section{
    #menu{
       display: inline-block;
    }
+	.home{
+		background-size: cover;
+	}
 
    .header .navbar{
       position: absolute;
